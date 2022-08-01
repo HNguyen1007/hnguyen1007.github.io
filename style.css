@@ -1,0 +1,88 @@
+/* reser margin padding */
+body {
+    margin: 0 !important;
+    padding: 0 !important
+}
+
+.white {
+    border: 1px solid white;
+}
+
+.red {
+    border: 1px solid red;
+}
+
+
+.banner {
+    height: 625px;
+    width: 97%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20px;
+    background-image: url(./download.jpg);
+}
+
+.about-sign-in {
+    height: 80px;
+    width: 100%;
+    text-align: right;
+    color: beige;
+    font-size: larger;
+}
+
+.about,
+.signin {
+    margin-top: 20px;
+    padding: 7px 15px;
+    text-decoration: none;
+    display: inline-block;
+    text-transform: uppercase ;
+}
+
+.about {
+    color: azure;
+}
+
+.signin {
+    margin-right: 60px;
+    margin-left: 25px;
+    border-radius: 20px;
+    border: 2px solid red;
+}
+
+.text {
+    color: beige;
+    text-align: center;
+    margin-top: 200px;
+    font-size: 30px;
+}
+
+.btn-start-now {
+    text-align: center;
+    margin-top: 30;
+    font-size: 30px;
+}
+
+/* button{
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 12px 15px;
+    border: 2px solid red;
+    cursor: pointer;
+} */
+
+.hung {
+    text-transform: uppercase;
+    padding: 5px;
+    border-radius: 12px 15px;
+    border: 2px solid red;
+    cursor: pointer;
+    text-align: center;
+}
+    
+
+
+
+
+
